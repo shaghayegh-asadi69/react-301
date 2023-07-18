@@ -17,7 +17,7 @@ export default function Main(){
           description={"Parent rhino with two babies"}
         />
         <HornedBeast
-          title={"sentor"}
+          title={"dragon"}
           imgUrl={
             "https://t3.ftcdn.net/jpg/05/66/09/54/360_F_566095454_YRWcyvfmcagT6wlZB5DBnU5QaxOcExOW.jpg"
           }
