@@ -1,3 +1,4 @@
+import"./Header.css"
 export default function Header() {
-  return <div>HornedBeast</div>;
+  return <div className="header">Horned Beast</div>;
 }
