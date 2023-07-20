@@ -2,5 +2,5 @@ import React from "react";
 import"./Footer.css"
 
 export default function Footer() {
-  return <div className="footer">Shaghayegh Asadi</div>;
+  return <div className="footer">&#169; Shaghayegh Asadi</div>;
 }
